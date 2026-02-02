@@ -1,4 +1,4 @@
-# LAB1 – Git & GitHub for ML!
+# Simple Introduction!
 
 Hello! I'm Ghadeer Almudhi.
 
